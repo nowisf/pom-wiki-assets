@@ -1,0 +1,1 @@
+# POM Wiki Assets
